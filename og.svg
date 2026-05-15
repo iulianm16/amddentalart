@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0B1B2B"/>
+      <stop offset="100%" stop-color="#175584"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.18" fill="none" stroke="#FAFBFC" stroke-width="1">
+    <circle cx="200" cy="180" r="120"/>
+    <circle cx="1020" cy="500" r="160"/>
+  </g>
+  <g transform="translate(90 200)" fill="none" stroke="#FAFBFC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <path d="M30 0C13 0 0 13 0 30c0 22 13 30 17 52 4 22 4 49 17 62 6 8 17 8 21-3 4-11 4-31 9-31s5 20 9 31c4 11 15 11 21 3 13-13 13-40 17-62 4-22 17-30 17-52C128 13 115 0 98 0 88 0 80 5 72 9c-8 4-13 4-18 4s-10 0-18-4C28 5 20 0 30 0z"/>
+  </g>
+  <text x="260" y="270" font-family="Georgia, serif" font-size="68" fill="#FAFBFC">AMD Dental Art</text>
+  <text x="260" y="320" font-family="Georgia, serif" font-size="36" fill="#C99A3F">Stomatologie premium aproape de casa</text>
+  <text x="260" y="380" font-family="system-ui, sans-serif" font-size="22" fill="#FAFBFC" opacity="0.8">Corbeanca, Ilfov · +40 746 130 938</text>
+  <text x="260" y="540" font-family="system-ui, sans-serif" font-size="14" letter-spacing="6" fill="#FAFBFC" opacity="0.55">ORTODONTIE · INVISALIGN · IMPLANTOLOGIE · ESTETICA</text>
+</svg>

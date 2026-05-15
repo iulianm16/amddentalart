@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#EAF3FB"/>
+      <stop offset="100%" stop-color="#CFE3F3"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <circle cx="200" cy="190" r="70" fill="#FAFBFC" opacity="0.7"/>
+  <path d="M90 460 Q 200 320 310 460 Z" fill="#FAFBFC" opacity="0.7"/>
+  <text x="200" y="490" font-family="Georgia, serif" font-size="14" fill="#175584" text-anchor="middle" opacity="0.7">Dr. Raluca Sighinas</text>
+</svg>

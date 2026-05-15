@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#EAF3FB"/>
+      <stop offset="100%" stop-color="#FAFBFC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.2" r="0.8">
+      <stop offset="0%" stop-color="#CFE3F3" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#CFE3F3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect width="800" height="1000" fill="url(#glow)"/>
+  <g opacity="0.18" fill="none" stroke="#1F6AA3" stroke-width="1.2">
+    <circle cx="180" cy="220" r="120"/>
+    <circle cx="640" cy="780" r="180"/>
+    <line x1="0" y1="500" x2="800" y2="500"/>
+    <line x1="400" y1="0" x2="400" y2="1000"/>
+  </g>
+  <g transform="translate(280 380)" fill="none" stroke="#1F6AA3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 0c-22 0-38 16-38 38 0 27 16 38 22 65 6 27 6 60 22 76 8 10 22 10 28-4 6-14 6-39 11-39s5 25 11 39c6 14 20 14 28 4 16-16 16-49 22-76 6-27 22-38 22-65 0-22-16-38-38-38-12 0-22 6-32 11-10 6-16 6-22 6s-12 0-22-6c-10-5-20-11-32-11z"/>
+  </g>
+  <text x="400" y="720" font-family="Georgia, serif" font-size="40" fill="#0B1B2B" text-anchor="middle" opacity="0.5">AMD Dental Art</text>
+  <text x="400" y="760" font-family="system-ui, sans-serif" font-size="14" letter-spacing="6" fill="#3D4F63" text-anchor="middle" opacity="0.6">CLINICA STOMATOLOGICA · CORBEANCA</text>
+</svg>
